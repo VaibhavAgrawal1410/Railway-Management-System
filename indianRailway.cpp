@@ -831,7 +831,7 @@ public:
     void Bill()
     {
 
-        string destination[6] = "";
+        string destination[6];
 
         for (int i = 0; i < n; i++)
         {
@@ -888,7 +888,7 @@ public:
 
     void database()
     {
-        string destination[6] = "";
+        string destination[6];
 
         for (int i = 0; i < n; i++)
         {
